@@ -1,8 +1,8 @@
-*HTML
+# HTML
 
-**Estructura general
+## Estructura general
 
-```
+```html
 <!DOCTYPE html>
 <html>
   <head>
